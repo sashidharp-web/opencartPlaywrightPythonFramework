@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","9129","test_user_registration","tests","2026-06-09","failed","2026-06-09","","test_user_registration","",""
-"","6705","test_product_search","tests","2026-06-09","passed","2026-06-09","","test_product_search","",""
-"
-Automated Test Case: Verify that login succeeds for valid user credentials.
-","4856","test_valid_user_login","tests","2026-06-09","passed","2026-06-09","","test_login","",""
